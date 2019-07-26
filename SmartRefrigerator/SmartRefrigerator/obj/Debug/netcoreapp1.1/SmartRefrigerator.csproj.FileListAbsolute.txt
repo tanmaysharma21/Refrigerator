@@ -1,0 +1,10 @@
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.deps.json
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.runtimeconfig.json
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.runtimeconfig.dev.json
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.csprojResolveAssemblyReference.cache
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.csproj.CoreCompileInputs.cache
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.AssemblyInfo.cs
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.dll
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.pdb
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.dll
+C:\tavisca_training\refri_gerator\SmartRefrigerator\SmartRefrigerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.pdb

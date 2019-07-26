@@ -1,0 +1,15 @@
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\SmartRefrigerator.Tests.deps.json
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\SmartRefrigerator.Tests.runtimeconfig.json
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\SmartRefrigerator.Tests.runtimeconfig.dev.json
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\obj\Debug\netcoreapp1.1\SmartRefrigerator.Tests.csprojResolveAssemblyReference.cache
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\obj\Debug\netcoreapp1.1\SmartRefrigerator.Tests.csproj.CoreCompileInputs.cache
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\obj\Debug\netcoreapp1.1\SmartRefrigerator.Tests.AssemblyInfo.cs
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\SmartRefrigerator.Tests.dll
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\SmartRefrigerator.Tests.pdb
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\SmartRefrigerator.dll
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\bin\Debug\netcoreapp1.1\SmartRefrigerator.pdb
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\obj\Debug\netcoreapp1.1\SmartRefrigerator.Tests.dll
+C:\tavisca_training\refri_gerator\SmartRefrigerator.Tests\obj\Debug\netcoreapp1.1\SmartRefrigerator.Tests.pdb

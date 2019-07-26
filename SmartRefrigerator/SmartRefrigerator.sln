@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartRefrigerator", "SmartRefrigerator\SmartRefrigerator.csproj", "{4F41105E-C106-434E-9770-5C06C1971374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRefrigerator.Tests", "..\SmartRefrigerator.Tests\SmartRefrigerator.Tests.csproj", "{8A0FA1B5-1BA3-41A0-964A-2B8E78AD0465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F41105E-C106-434E-9770-5C06C1971374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F41105E-C106-434E-9770-5C06C1971374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F41105E-C106-434E-9770-5C06C1971374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F41105E-C106-434E-9770-5C06C1971374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0FA1B5-1BA3-41A0-964A-2B8E78AD0465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0FA1B5-1BA3-41A0-964A-2B8E78AD0465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0FA1B5-1BA3-41A0-964A-2B8E78AD0465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0FA1B5-1BA3-41A0-964A-2B8E78AD0465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F95808-C3FB-4474-BDA2-F440C0FF0135}
+	EndGlobalSection
+EndGlobal
